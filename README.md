@@ -22,13 +22,5 @@ This machine learning project predicts whether a telecom customer will churn usi
 ## 📁 Files
 - `Churn_Prediction_Project.ipynb` — Jupyter/Colab notebook with all code
 - `churn_model.pkl` — Saved trained model
-- `app.py` — (If deployed via Streamlit)
 
----
-
-## ✅ Run the App (Optional)
-
-You can deploy it using Streamlit:
-```bash
-streamlit run app.py
 
